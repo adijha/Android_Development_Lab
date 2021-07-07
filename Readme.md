@@ -1,4 +1,4 @@
-###Q2) toast message output
+### Q2) toast message output
 
 <br/>
 <br/>
@@ -14,5 +14,5 @@
 <br/>
 <br/>
 
-###Q3) What is Intent in android?
+### Q3) What is Intent in android?
 
